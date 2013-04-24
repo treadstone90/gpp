@@ -1,0 +1,74 @@
+So note that for the lexcon wat we sud have is a heirarchucal lookup
+1. Frst start with the Sentiwordnet and MPQA lexoson as these can be more fine grained
+then the rest
+2. Then go ahead to BIng Liu's lexicon
+3.FInally if not present then we can make the works to be neutral
+Looks like featuriz is used to assign vakues ot the features that u pick
+SO for example 
+
+say for classification I just want Unigram wordCOunt features.
+Then in that case , my raw text will just be s Seq of Strings
+
+THen for each fi these strings what I will do is m I will proces it how ?
+
+Wel my raw data will be passed thru a featurizer which will assign it some score , how will it do that. 
+
+SO say I wanna do TFIDF on unigram features
+
+Then what I have will be my Example may consist of Label, IndexedSeq[String]
+Then when a label and indexSeq of String is passed to theFeatureizr , 
+I can iterte thru the words in the IndexedSeq[String] and each word I can find its TF and set that as the value
+
+If I wanna do TFIDF  then I shud have a global value that has already caculated IDF of all the words in the vicabulary.
+
+Then say I wanna emoticon as features
+same thing
+
+Of I wanna do Bugram featurs then my INDexeSeq[String] will have word1_word2
+ and I can have the wordNEt lexicon scores as features as well.
+ THen how can I use TwiiterARk tools
+
+ NO combine the ratio scores I say, but this can add seriosu noise
+But if I want I can use the cobination of learners and repprduce my ensemnle leanrng
+results. WhicH i think might be batter idea
+
+
+
+-----------------
+
+Just simply piling features does not work.
+
+Not all features go together godmannit
+Sometimes they add up si=ometomes they dont'
+For the ones that do , add up they are ones that are like really really orthogonal I think
+cos u know, for instance the polarity was entorely ortho to everything else
+But on the other hand 
+
+
+recall definition ===>
+
+out out all instances of a parituclar class, how manyof them were correctly classified
+.. Meaninfi = (good as good)/(good as good + good as bad) --- this class is einf class as something else..
+
+Precision == > (good as good)/(good as good + bad as good) -- other classes are classified as good
+
+length of the tweet , the neutral tweets have smaler lngth , I mean how informationc can u convery
+
+0.37 length of the tweet so far 71.07 accuracy
+
+
+plor tweets mae very string association wth the topics and that can be a pretty good indiat for the tweets
+
+role of staylisti marker , what thn woud explaim wt fis happeining, very interetsing
+
+that wud also explain why stopwords are imporant right ?
+
+Word based featires tend to favor negatove and positive
+
+more stylisic featres are indicative of neutral tweets
+
+only stememd unigrams best is above 0.56 and 66.7
+
+u ca always have domain depednent features
+
+0.74 all featires beats Jasonb

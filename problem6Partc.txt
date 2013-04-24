@@ -1,0 +1,1651 @@
+List(--train, data/hcr/train.xml, --eval, data/hcr/dev.xml, -c, 0.35, -x, -d)
+[Ljava.lang.String;@2448867b
+data/hcr/dev.xml
+0.35
+L2R_LR
+true
+--------------------------------------------------------------------------------
+Confusion matrix.
+Columns give predicted counts. Rows give gold counts.
+--------------------------------------------------------------------------------
+393	29	42	|	464	negative
+93	55	13	|	161	neutral
+107	10	55	|	172	positive
+----------------------------
+593	94	110
+negative neutral positive
+
+--------------------------------------------------------------------------------
+		63.11	Overall accuracy
+--------------------------------------------------------------------------------
+P	R	F
+66.27	84.70	74.36	negative
+58.51	34.16	43.14	neutral
+50.00	31.98	39.01	positive
+...................................
+58.26	50.28	52.17	Average
+--------------------------------------------------------------------------------
+CORRECTLY LABELED EXAMPLES
+--------------------------------------------------------------------------------
+Correctly labeled: negative
+--------------------------------------------------------------------------------
+black leaders supporting #hcr bill are more akin to tuskeegee experiment enablers than civil rights leaders.  shameful.
+
+these guys are straight up parroting glenn beck about obama and socialism. fucking idjits. #tcot #hcr  #obama
+
+rt @gabe_holmstrom: if r's were as concerned about #hcr as they now say, why didn't they do anything about it when they were in control?
+
+save a presidency - kill a constitution?? http://bit.ly/boohoohoo  @bacaca43 @repjohnbarrow #tweetcongress #hcr
+
+rt @blackjedi47    since #gop hates to take responsibility as of today they won't have to. #hcr #hcr #p2
+
+today's teaparty recruitment special - free hood with robe purchase. today only!nn#gop #tcot #p2 #foxnews #iamthemob #hcr #teaparty
+
+rt @toddeherman: rt @gopinkpolitics: don't give up! i got thru to stupak on this number 202-225-4735   just minutes ago! #hcr #tcot
+
+why was the vote held 25 minutes?'' so we could hear additional crazy people on the c-span phonelines, duh. #hcr #cspan
+
+this executive order crap is a farce. it's not binding! it will be ignored. we won't forget these sellouts in november. #tcot #hcr
+
+larrey anderson: probable constitutional challenges to #obamacare http://bit.ly/bvxxur #tcot #hcr #handsoff
+
+the american republic will endure until the day congress discovers that it can bribe the public with the public's money.'' #tcot #hcr
+
+stupak's office is counting calls...just say no..nothing else. be grateful that you can get through. 202-225-4735 #hcr #killthebill
+
+irs direct withdrawal from you bank acct? @neilabercrombie @reptammybaldwin #tweetcongress #hcr http://bit.ly/irsdirectwithdrawal
+
+newsflash for libs: it's not health care. it's taxation, debt, bureaucracy, regulation, & control #hcr #p2 #tcot
+
+disturbance in the house gallery #tcot #hcr
+
+all of you will fry on election day, 2010. @neilabercrombie @reptammybaldwin #tweetcongress #hcr
+
+i find it ironic that above the speaker of the house it says ''in god we trust'' instead of''ingovernment we trust'' #justsayin #hcr #tcot #ocra
+
+ready for 50 million to contribute to your opponent? http://bit.ly/banzai4  @repjimmatheson @repmikemichaud #tweetcongress #hcr
+
+i was able to reach stupak's office! call 202-225-4735 now!! #tcot #killthebill #hcr #tweetcongress
+
+why wait for the house? cast your vote on obamas healthcare bill now; see the trend http://bit.ly/8yteto #tcot #sgp #dc @#hcr #p2 #politics
+
+rt @saysmissy i'm so proud of my fellow patriots in dc chanting  #killthebill #killthebill #killthebill #killthebill #killthebill  #hcr
+
+rt @misharn rt @delrayser:jon stewart said it a while ago but bears repeating today: i think you might be confusing tyranny with losing #hcr
+
+rt @rasmussenpoll it's time to decide and new poll shows 54% of voters oppose dems' #hcr http://ow.ly/1p4en
+
+president @barackobama - the hyde amendment kills. don't pass #hcr on the backs of women - no executive order for #stupak.
+
+paul ryan on floor. ''the mother of all unfunded mandates.'' #killthebill #hcr #codered #tcot
+
+rt @saysmissy obama has divided this country like no other president...#killthebill #tcot #gop #hcr
+
+do you rember all of this congressional debate before bush spent a trillion dollars on iraq war? yeah, neither do i   #p2 #tcot #hcr
+
+ignore the teabaggers: there are no plans to turn the dmv into the nation's waiting room. #hcr
+
+obama is a clear & present danger to our liberty. he's turning america upside down. #killthebill #tcot #hcr
+
+if our founding fathers could see pelosi walking into the capital building with her gavel, they'd hit her on the head with it. #tcot #hcr
+
+yeah, and we voted a republican into his father's seat because we don't want this bs bill #killthebill #hcr #p2
+
+oh nooooo, not patrick kennedy........quick give him an ambien..#hcr #tcot
+
+dead sister's teeth just invoked dead teddy kennedy! #hcr #shameless
+
+rt @natspolitics: the answer to 1984 is 1776 #killthebill #tcot #hcr #handsoff #gop #codered
+
+@wethepeople1st: ''we will not waver,we will not tire, we will not falter, & we will not fail.'' - #tweetcongress #killthebill #teaparty #hcr
+
+rt @conservativela: dems are so emboldened they're doing deals on the floor. disgusting. #killthebill #hcr #codered #tcot #gop #gopcodered
+
+sorry, but i have to laugh at republicans spewing venom about debt and deficits after driving our country into a ditch. #hcr #p2
+
+rt @reddevilrio: tyranny is purple union thugs paid to march http://bit.ly/smartchoice #tweetcongress #hcr
+
+rep. ryan believes in the cbo when it comes to missles & warships, but dismisses it when it comes to social welfare. #hcr
+
+here we go with the kennedy card.....keep playing it...can you say ''chappaquiddick''?  nuf said. #hcr #killthebill #hcr
+
+sheila jackson lee failed reading comprehension. in touting #hcr bill, she quotes jfk saying the exact opposite of what she's voting to do.
+
+rt @mpothehill: stupak just said there's no agreement. he's a no on #hcr until one is struck.
+
+rt @bdayspring: breaking: the hill reports ''dems don't appear to have 216 hours before #hcr vote'' n http://ow.ly/1p5fl
+
+rt @michellemalkin rt @bdayspring: breaking: the hill reports ''dems don't appear to have 216 hours before #hcr vote'' http://ow.ly/1p5fl
+
+rt @michellemalkin: rt @bdayspring: breaking: the hill reports ''dems don't appear to have 216 hours before #hcr vote'' http://ow.ly/1p5fl
+
+stupak & co. should be looking at how scott brown became a national hero after opposing ocare-better than being national traitor. #tcot #hcr
+
+paul ryan on floor: only way for govt takeover to be fiscally responsible will be to ration #healthcare. #tcot #hcr #p2 #teaparty
+
+rt @michellemalkin: rt @bdayspring: breaking: the hill reports ''dems don't appear to have 216 hours before #hcr vote'' http://ow.ly/1p5fl
+
+rt @edmorrissey: rt @michellemalkin: breaking: the hill reports ''dems don't appear to have 216 hours before #hcr vote'' http://ow.ly/1p5fl
+
+grrrrrr ]-/ rt @henryjennings: since when does ''massive tax hike on everyone'' get passed off as ''glorious deficit reduction''? #teaparty #hcr
+
+rt @mcwbr: you bastards used reconciliation to give tax cuts to the wealthy during a war. #p2 #hcr #tcot
+
+tyranny is ignoring your constituents http://bit.ly/smartchoice #tweetcongress #hcr
+
+crucial issue in o-care hidden! | rt @anitamoncrief ''irs direct withdrawal from ur bank account?...''- http://bit.ly/irsdirectwithdrawal #hcr
+
+kill the bill sunday (updated): http://bit.ly/9zeh5e just updated - they still do not have the votes!  #killthebill #hcr
+
+obama admits healthcare-not jobs or the economy-is `most important domestic priority' http://short.to/1qdaq #tcot #hcr
+
+tyranny places obamacare over individual rights http://bit.ly/smartchoice #tweetcongress #hcr
+
+pffft, you voted for #obama how does ur opinion matter when you provd u cant think for yourself already comrade? #hcr #teaparty #killthebill
+
+are you one of nancy's useful idiots? - you go in nov @usrepmikedoyle @repmikehonda #tweetcongress #hcr http://bit.ly/advicefordems
+
+if u like how the post office is run, you'll like govt controlled health care. #hcr #handsoff #healthcare
+
+if u think the #hcr bill will be better 4americans, i've got a bridge 2sell you in brooklyn. #p2 #tcot #killthebill #sgp
+
+so bo is 4 your #healthcare as long as you're not a senior & you're not in the womb & you're not near death? #hcr #tlot #tcot #killthebill
+
+will jim marshall (d-ga8) and john barrow (d-ga12) stab their constituents in the back by voting against ryan's point of order? #hcr
+
+issa:  80 gop amendments fixing many earmarks offered, all denied review. #tcot #hcr  house goes out of order...haha
+
+rep. nunes ''there is no free lunch in this world'' aka, get a job and fund your own health care.#hcr, #c-span. (via @teresaincali)
+
+irs direct withdrawal from you bank acct? @senbillnelson @markudall #tweetcongress #hcr http://bit.ly/irsdirectwithdrawal
+
+tyranny is making up the rules as you go along #tweetcongress #hcr http://bit.ly/nancypelosi
+
+this bill is a fiscal frankenstein.'' - rep. paul ryan #hcr #tcot
+
+rt @ingrahamangle: nrcc count: 214 no, 213 yes - dahlkemper (pa), berry (ar), kanjorski (pa), mcmahon (ny) undecided #tcot #hcr #killthebill
+
+rt @rachellefriberg: woot woot san diego's own @darrellissa is rocking the house floor!!!making san diego proud!!! #hcr #killthebill #fb
+
+tyranny is back-room threats made to principled representatives #tweetcongress #hcr http://bit.ly/advicefordems
+
+tyranny is a 2000+ page bill that nobody can understand #tweetcongress #hcr
+
+tyranny is taxing medical procedures and devices http://bit.ly/smartchoice #tweetcongress #hcr
+
+tune in to http://pjtv.com for live coverage of updates on the #hcr debate from d.c. http://bit.ly/9mz97r #tcot #killthebill #obamacare
+
+remember the alamo - remember pearl harbor - remember obamacare -- go here: http://bit.ly/blacksunday  #hcr #teaparty
+
+rt @gregwhoward switch to faxes to stupak. his mail box is full and not answering. #tcot #ocra #sgp #hcr #hhrs #ucot
+
+rt @sgbz another day another tea klux klanner threatens obama http://bit.ly/9ie4ot #p2 #hcr #px #tcot #teaparty #christian
+
+rt @starsparkle_uk rt @argylestyle @arrghpaine @celluloidblonde: gop trusts fed govt to manage nuclear weapons but not health care? #hcr
+
+am sorry but any and all ''pro-life'' politicians need to be aborted from congress. let's separate church & state now #hcr
+
+#truth rt @kokomoko: rt @saysmissy obama has divided this country like no other president...#killthebill #tcot #gop #hcr
+
+treason, high crimes & misdemeanors! press charges on our own government this is a sad day....
+
+kind of sad that only in america could not going far enough to do the right thing be considered ''landmark''. #p2 #hcr
+
+remember those heady days when the supreme court could rule on the constitutionality of, say... choice? #hcr
+
+if i get hypertension watching #hcr #cspan is that considered a pre-existing condition next time i go to the doctor?
+
+now if only they would destroy private property, assault people, and attack the authorities, it would be like a mild left-wing protest #hcr
+
+the #gop should sack the elephant and replace it with chicken little!  ''the sky is falling! the sky is falling!'' #p2 #topprogs #hcr
+
+#hcr watch => unless deal struck w/ stupak, dems appear 2b short on votes http://tiny.cc/0wnst rt @michelebachmann #killthebill #tcot #sgp
+
+if only the repubs spent this much time on obstructing the iraq & afghanistan wars instead of #hcr, think how better off we would be now...
+
+slaughter's scheme makes senate bill law with all its backroom deals. we need to stop and start over. #hcr #tcot #hc #sgp
+
+breaking from cap hill: no vote until at least 4:30p - may go to midnight. they don't have the votes - call-call-call!! #tcot #th2dc #hcr
+
+hey #tcot... we surround you. #p2 #hcr
+
+govt #hcr already fails => medicare denies more claims than top providers http://bit.ly/25uckd #sgp #ocra #tcot #teaparty #killthebill #rs
+
+why aren't more democrats willing to stand up for hard-working americans by voting no on this monstrosity of a bill? #utpol #tcot #hcr
+
+we're saying no because it's unconstitutional, vastly increases gov't, and infringes on our rights & liberty. doh! #hcr #c-span
+
+@theprez98 if the dems were made to do a roll call for their votes, i guarantee they wouldn't get the number they need to pass #hcr
+
+frum: this may end up being #gop waterloo due to encouraging radical reaction to #hcr rather than negotiating.
+
+rt @owillis: hey #tcot... we surround you. #p2 #hcr
+
+senate repubs found provision in #hcr that likely makes it ineligible for expedited reconciliation actions #killthebill http://bit.ly/3hbmzq
+
+rt @proudlib: whoa...bush speechwriter saying #hcr could be the republicans' waterloo.
+
+#killthebill ``if you vote for this #hcr bill, never again can you claim to be pro-life.'' suzanne kosmas (fl-24) - (202) 225-2706 #tcot #p2
+
+tyranny is taking health care choices away from seniors #tweetcongress #hcr http://bit.ly/dcx9ko
+
+stupak gives presser introducing the congressional gullibility caucus. #hcr
+
+stupak caves for political power: myth of ``pro-life democrat'' now as dead as the aborted unborn boys and girls #tcot #p2 #hcr
+
+stupak folds for an empty piece of paper. once again confirmed: there is no such thing as a ''moderate democrat.'' #hcr
+
+stupak is as stupak does.  #twisters #stormthehouse #tweetcongress #molonlabe  #hcr
+
+well, stupak just signed his pink slip. #tcot #hcr #killthebill
+
+rt @michellemalkin stupak folds for an empty piece of paper. once again confirmed: there is no such thing as a ''moderate democrat.'' #hcr
+
+if there was any doubt that the house would pass #hcr tonight, it has apparently been dispelled with the stupak news.
+
+fine, stupak. take your 15 minutes and kindly see your ass off stage. as a fellow attention whore, i'll leave it at that. #hcr
+
+rt @exposeliberals: i really hope  hussein obama undos his executive order in a week or two to make stupak look like a fool #tcot #hcr
+
+rt @buckmckeon vfw: #hcr bill betrays veterans- dsn't protect #hc programs for vets, service-members or their families http://ow.ly/1p5jt
+
+if the stupak exec. order exist & is serious, why doesn't potus sign it right now! #tcot #hcr #killthebill
+
+rt @davidoatkins: a fetus is not a child, you $#@$#@  @#$@$@#$e. #hcr
+
+accept such a promise from 1st presidential candidate ever endorsed by planned parenthood? stupak is a stooge! #tcot #killthebill #hcr #phnm
+
+rt,@libertyroll ,are you one of nancy's useful idiots? - you go in nov @repjimmatheson @repmikemichaud , #hcr http://bit.ly/advicefordems
+
+rt @exjon: rt @rubyslipperblog: stupak's opponent: http://is.gd/arojs <--donate $ now. kick his ass out in november. #hcr (via @jackieseal)
+
+stupak aka baby killer--cannot wait to see u when u get home #wewillneverforget @housedemocrats #tweetcongress #hcr #killthebill
+
+rt @amy_vrwc: seiu busing in protestors to the hill...if you're a patriot in the dc area, get to the hill now. #tcot #hcr #killthebill
+
+congrats, bart stupak. your opponent will receive my 1st political contribution of 2010. #hcr #fraud #fail #treason
+
+its kind of amazing to see the gop crumble just a couple months after they elected scott brown and thought that #hcr was dead
+
+rt @kagrox: rt @owillis: amazing to see gop crumble...months after they elected brown & thot #hcr was dead | but.. he had a truck!
+
+do you 'tards know what ''approximately'' means? did you count them? #hcr rt @foxnewspolitics approx. 1,000 protestors gather outside capitol
+
+rt @danstlmo: stupak's opponent: http://is.gd/arojs <--donate $ now. kick has ass out in november. #hcr #tcot/looks like ur a go!
+
+the only free lunch is found in a mousetrap.'' #killthebill #hcr #codered #tcot #gop @cspan
+
+don't vote ''yes'' because you feel it's good for america. vote ''yes'' b/c you were bribed or lied to, having not read the bill yourself. #hcr
+
+doesn't make sense to me that many self-proclaimed pro-lifers don't want us to be able to afford health care once we're born. #hcr
+
+obama's #hcr bill is going to kill 700,000 jobs, not create them. #p2 #tcot #hc http://bit.ly/bnzdyb #gopcodered
+
+rt @conservativeind: obama's #hcr bill is going to kill 700,000 jobs, not create them. #p2 #tcot #hc http://bit.ly/bnzdyb #impeach #treason
+
+media lying about racist attacks on black reps by tea party protesters... video proof [http://bit.ly/aobust] #tcot #hcr
+
+stupak's opponent: http://is.gd/arojs <--donate $ now. kick has ass out in november. #hcr #tcot #sgp (via @jackieseal)
+
+@snikkig #teabaggers hate big words and are intimidated by these scary ''book'' things, would rather watch #nascar #tcot #hcr #teaparty
+
+the french just called. they said they were shocked at how easily stupak surrendered. (via house democratic cloakroom) #hcr #hc
+
+stupak to vote yes, after being assured that no funds from the health care bill will be used for health care. #hcr
+
+rt @ljarratt bart stupak's campaign phone # (906) 863 -2800 call, tell them you are donating to his opponent for his betrayal #teaparty #hcr
+
+watch for stupak to cave after all! just saw him and pelosi smiling and squeezing hands on the floor. call his office! #hcr #teaparty #tcot
+
+caddell, continued: ''... this (#hcr) is political jonestown.'' #pdk #tcot #teaparty #newcongress
+
+rt @wickedpoptart rt @amy_vrwc: seiu busing in protestors..if ur a patriot in the dc area, get to the hill now. #tcot #hcr #killthebill rt!
+
+gop's #hcr outrage would ring more authentic were it not for medicare d. upside: day when fed gov defaults on debt will now come sooner.
+
+isn't anyone concerned that we are a plutocracy & the health ins. co's spent a million per day on lobbying?  am i alone & naive here?  #hcr
+
+rt @brentteichman: congrats, bart stupak - you are trending on twitter. that is what happens when u betray your country. #treason #hcr
+
+congrats, bart stupak - you are trending on twitter. that is what happens when u betray your country. #treason #hcr
+
+q: did stupak get a promise from bho for a big admin job when he loses in nov? #tcot #hcr
+
+tna's yuval levin: #stupak & co have accepted a meaningless executive order. http://is.gd/aryls #hcr #healthcare
+
+rt @gregpinelo gop opposed socsec, medicare, civil rights, minimum wage, seat belts, clean air act. now #hcr... via @@kombiz
+
+someone should ask for consent to revise and extend their remarks in opposition to this poopy health care bill. just to mix it up. #hcr
+
+today we are reminded ->> ''freedom is never more than one generation away from extinction.'' ~ronald reagan #hcr
+
+stupak on foxnews trying 2 pretend that an executive order is law.. what a weasel for sure #hcr ppl are not that dumb any pres can cancel it
+
+#hcr is just 'foot in the door' for total control, they want it all-alinsky marxists... #tcot #p2 #gop #sgp #tlot #ocra #ucot #hhrs #teaparty
+
+this flawed health care bill?'' are the republican really using a tactic from the kindergarden joke book? #hcr
+
+i'm so tired of old white guys deciding what is in my best interest. #hcr
+
+26 year olds are considered ''children'' in obama's america #tcot #hcr #gopcodered
+
+breaking! bart stupak invited to rahm's tickle party tommorow night! #tcot #p2 #hcr
+
+bart stupak's plan for dummies: go along w/ the pack but put up a little resistance 1st so it looks like you fought. #killthebill #tcot #hcr
+
+the worst part of this health care bill is the obscene accountin gimmicks that would land any ceo behind bars. #hcr
+
+don't forget grandma. it kills grandma, too. that's the best part. hail, satan. #hcr #p2 #tcot
+
+rt @xxxlilxsm0k3xxx: rt @ryweezy: what's even better is you won't see anything for 4 years, but you'll start being taxed immediately. #hcr #
+
+rt @stevekimura: i ask unanimous consent to ask to revise and extend my remarks in opposition to this gop bs. #p2 #hcr
+
+#hcr page 225 lines 16-27 all #conservative #gop #teaparty must stand on one foot and hop! #p2 #tcot #topprog #dem #obama
+
+in november, remember how much the #gop hates america and our system of government. /via @supermanhotmalen#hcr
+
+breaking: ``fix'' bill may not advance in senate  http://wp.me/ptrgu-f9 #tcot #hcr #healthcare #killthebill #teaparty #tlot #rs #redco
+
+reconciliation ``fix'' blocked by law @jim_moran @jimoberstar @jaredpolis #tweetcongress #hcr http://bit.ly/cannotreconcile
+
+nancy pelosi taunts anti-health care protesters- but we ain't dead yet http://is.gd/as0qs  #teaparty #killthebill #tlot #tcot #p2 #hcr
+
+vfw: #hcr bill betrays veterans - bill doesn't protect health programs for veterans, service-members or their families http://ow.ly/1p5jt
+
+@yagbebi @celottocellini @tehranweekly take cover, the rethugs are going to start throwing shit! #hcr ;) /via @mwforhr
+
+where is hamsher? i'd like to do a victory lap around the carcass of her political relevance. #p2 #hcr
+
+rpblcn fallback position: if #hcr passes, the ''real'' vote will take place in nov. when ''the american ppl'' correct this mistake. blow me.
+
+if you dont have money what is the point of a health savings account?!??!? lawd these republicans are si intransigent #hcr
+
+reconciliation ``fix'' blocked by law @kendrickbmeek @gregorymeeks #tweetcongress #hcr http://bit.ly/cannotreconcile
+
+rt @reddevilrio: reconciliation ``fix'' blocked by law @jim_moran @jimoberstar @jaredpolis #tweetcongress #hcr http://bit.ly/cannotreconcile
+
+dear david dreier: you had more than eight years to get something done.  now move the fuck over and let the dems make it happen. #hcr
+
+stupak's been lying all along!!! video surfaced! obama's deal won't even count! http://is.gd/as1c2 #hcr #tcot #sgp #tlot #hhrs #ocra #ucot
+
+.@congjoewilson serious q: if we can ''do better'' on #hcr, why didn't gop just do it during 6 yrs of total control?
+
+follow bart stupak's opponent dan benishek @benishek on twitter now! #tcot #hcr #tlot #ocra
+
+rt @dbass777: retweet if you think #healthcare bill is unconstitutional. #hcr #obamacare #obama #iamthemob #teaparty #tlot #tcot
+
+today h/c.. tomorrow immigration.. next cap and trade.. next marshall law. #tcot #teaparty #hcr
+
+rt @gopleader: senate democrats in hiding, reconciliation ``fix'' in doubt http://bit.ly/ceehhq #hcr
+
+now if conservatives say obama has no accomplishments, say ''he must've accomplished something to upset you so much.'' #hcb #hcr
+
+the gop opposed social security, medicare, civil rights, minimum wage, seat belts, clean air act. now #hcr...
+
+what was that stat? 14 big ins companies' profits for 1 yr only totals to 3 days of #hcr spending? yeah.
+
+rt @norsu: rt @ekklesia7: #hcr is our bunker hill. we may lose now, but dem casualties come nov 2 #tcot #ocra #teaparty
+
+rt @kansaspider: rt @_hughbris: if this passes, we the people are no longer represented by those in dc. #killthebill #hcr < or #revolt !!
+
+will democrats stand up and be counted? a defining bill requires a transparent vote http://bit.ly/ava2nw #hcr
+
+rt @exposeliberals: follow bart stupak's opponent dan benishek @benishek on twitter now! #tcot #hcr #tlot #ocra
+
+codered says dems have 216 with only kanjorski (pa-11) and berry (ar-01) undecided :-(  #killthebill #hcr #codered #tcot
+
+demo rep. wasserman schultz: the executive order stupak loves is  meaningless: http://bit.ly/cygjwe #tcot #hcr #killthebill
+
+abc news: senate fight starts: gop says senate parliamentarian will kill fix-its bill http://bit.ly/cfkat5 #tcot #handsoff #hcr
+
+when potus issues the executive order, he should put in the fine print that stupak has to clean the wh toilets. #p2 #hcr
+
+rt @senate_gops: abc news: senate fight : gop says senate parliamentarian will kill fix-its bill http://bit.ly/cfkat5 #tcot #handsoff #hcr
+
+the gop wasn't concerned about national debt when borrowing to pay for iraq & lining halliburton pockets... #hcr
+
+rt @wfpman: tea baggers singing we shall overcome is blasphemy of the highest order - http://is.gd/as0iu #hcr
+
+the teabaggers are opposed to health care, which means they are on the same side as cancer. #hcr
+
+what is up w/ stupak?  next, we have to figure out how 2 fight this state by state. #hcr
+
+fux news just said americans do not want this #hcr bill ! what are we --- chopped liver ?
+
+reconciliation ``fix'' blocked by law @maxinewaters #tweetcongress #hcr http://bit.ly/cannotreconcile
+
+reconciliation ``fix'' blocked by law @tomperriello @chelliepingree @timryan #tweetcongress #hcr http://bit.ly/cannotreconcile
+
+@katrinanation my favorite provision of #hcr is tax on tanning booths. now boehner can eat crow 3x a week.
+
+@timpawlenty i think congress has been disconnected from reality for quite some time.  today is just further proof.  #tcot #hcr #killthebill
+
+rt @hch242 rt @repkevinbrady: retweet this if you are against a government takeover of health care #hcr #tcot #gop #txgop #handsoff #codered
+
+sadly, today truly gives new meaning to that whole ''i'm so angry i'm seeing red'' thing. #hcr
+
+video: stupak has lied about healthcare vote all along http://bit.ly/crmllm #tcot #ocra #sgp #healthcare #teaparty #iamthemob #tlot #hcr
+
+georgia legislature introduced bill (sb317) to give us a right to choose #hcr or not.  georgians will not be jailed if we have no #hcr.
+
+rt @minorcanmaven: stupak's challenger, dan benishek (@benishek) joined twitter 1 hour ago ; already has 700 followers. #hcr #tcot #sgp
+
+congress-please don't sell out our children's futures and destroy our country with this abomination #hcr #killthebill #healthcare
+
+i am fighting this bill with every move i can come up with. i am calling for parliamentary inquiry! #tcot #hcr #realdeal
+
+breaking; gop representatives outraged that 32m americans will get health care and health insurers will be regulated. #hcr
+
+declaration of dependence #hcr #teaparty #hc #tcot #gop #obama #democrats http://old-aldy.xanga.com/723802160/declaration-of-dependence/
+
+excellent! rt @marnus3: bachmann looks like she just finished her shock treatments. #p2 #hcr
+
+entire reconiliation bill cld b thrown out. must read senatre bill wld become law without ''fixes'' http://bit.ly/bkmldi #tcot #hcr
+
+but we republicans hear you, loud & clear #hcr #handsoff #hc #tcot
+
+is it just me or do most of the gopers in the conga line opposing #hcr look alike? old, white, male & with really bad taste in clothes.
+
+you know what would really turn this around for the gop? if james o'keefe walked in wearing a pimp suit. #hcr #p2
+
+rt @donnakay2010    reconciliation ``fix'' blocked by law @neilabercrombie @reptammybaldwin #tweetcongress #hcr http://bit.ly/cannotreconcile
+
+rt @slackadjuster fux news just said americans dont want this#hcrl ! what are we --- chopped liver ?//thankfully we're not whatever they are
+
+pls rt: dems' trillion dollar #healthcare overhaul will take america in the wrong direction #handsoff #hc #hcr #tcot #gop
+
+rt @texasinafrica: tea partiers singing ''we shall overcome'' on the hill. that's by far the most offensive thing that's happened. #hcr
+
+rt @audna: follow stupak's opponent @benishek. just opened twitter acc't #wethepeople #teaparty #tcot #hcr #killthebill #politics #prolife
+
+follow stupak's opponent @benishek. just opened twitter acc't #wethepeople #teaparty #tcot #hcr #killthebill #politics #prolife #sgp #rs
+
+as #obamacare is on the horizon, so is a massive thunderstorm here in northern va... ironic??? #tcot #teaparty #obamacare #hcr
+
+#hcr will have a limited effect on teabaggers because unfortunately stupidity is incurable. #p2
+
+bill burck & dana perino: the executive order farce http://ow.ly/1p7qd #hcr (via @nrocorner)
+
+rt @normansigler: @jason_pollock it's no diff 4 the repugs. they see #hcr as their new ''war''. gop is the party of ''war''!
+
+most of the ''gay basher's'' are gay! you guys get caught in more gay scandles than anyone #conservatives #tcot #racist #hcr
+
+this government must stop spending money it doesn't have #hc #hcr #healthcare #handsoff #tcot #gop #ocra
+
+03/20/09 - rip teaparty.  you can go back to calling yourselves your old name, the kkk.nn#tcot #p2 #foxnews #glennbeck #palin #hcr
+
+hoyer: don't like govt health care? then let's can the va and medicare. #hcr
+
+john boehner has apparently requested that republican lawmakers behave, and i quote, ''like grown-ups.'' http://tinyurl.com/yfbgvlc #hcr
+
+now following @benishek > rt @fleckman: let's get stupak's opponent dan @benishek 10,000 followers by sunrise. #killthebill #hcr
+
+i think the fairest thing you can say about stupak is that he's pro-life-ish. #hcr
+
+quick q on #hcr: can my libyan relatives (no papers, heh) get elective surgery this month or will they have 2 wait til next yr? #tcot
+
+this government must stop piling debt onto our nation's children & grandchildren #hc #hcr #healthcare #handsoff #tcot #gop #ocra
+
+everyobdy follow @lindagoldthorpe home-schooling gop mom running against bart sellout stupak #hcr #sgp #teaparty plz retweet
+
+gop saying no, i obstruct are the same that were in favor of tax cuts for rich while we were at war. traitors. #p2 #tcot #hcr
+
+follow stupacks (r) apponents  @lindagoldthorpe  and @benishek #tcot #gop #ftrs #hhrs #sgp #tlot #stupak #hcr #spwbt #teamsarah #teaparty
+
+rt@cdashiell rt @alternet the federal government forced me to buy two wars in the last 10 years.    #hcr #tcot #p2
+
+#stupak: #tcot #tweeters helped scott brown. you r in trouble!! #hcr #killbill #tlot #prolife
+
+tv people seem disappointed: stupak deal takes the ''suspense'' out of the #hcr vote. now that's really too bad.
+
+america can be certain of one thing: glenn beck will continue to lose sponsors after #hcr is passed.
+
+rt @avivao teabaggers go overboard, threatening gun violence against the healthcare bill's passge: #hcr #p2 #tcot #teaparty http://3.ly/8hqp
+
+dear bart stupak: how many wpm can you type? i might be able to get you some temp work this november. #hcr
+
+ok libs. what other parts of the constitution shall we rip out. or maybe we just trash the whole thing. #tlot #p2 #topprog #hcr
+
+running against pelosi>@johndennis2010 replace pelosi with true leadership & representation. http://bit.ly/9w5ssn #dist8 #tcot #hcr #c4l
+
+let 'em live without health care! rt @allie87: i'd love to see all these anti-#hcr people lose their jobs & have pre-existing conditions.
+
+if stupak actually cared about fetuses, he wouldn't exempt rape/incest.  hypocrite.  it's about punishing women for having sex. #hcr
+
+and the thing of it is, you can't even threaten to move to canada. any minute now, we'll be canada. #hcr
+
+rep. dreier (r-ca) was just on #cspan, giving intimidating and misleading info on irs agents in #hcr #factcheck http://go.usa.gov/il7
+
+lmao! rt @jimmiebjr @benishek, i don't care if your platform includes a giant laser & a secret lair. if you help repeal #hcr, i'm with you.
+
+@glennbeckclips breaking: americans vow 2 file tax extensions on april 15 2 protest #hcr passage. legal way 2 w/hold $ from govt-pls. rt
+
+want to experience raw torture? watch c-span right now. a bunch of blind buffoons destroying america with each spoken syllable. #hcr
+
+@joannemoretti hey pelosi. the hindenburg & titanic were historic too.n#tcot #tlot #teaparty #hcr #sgp #gop #ocra #iamthemob #ucot
+
+rt @tnlawgirl: rt @harmer4congress: let's get stupak's opponent dan @benishek 10,000 followers by sunrise. #killthebill #hcr #tcot
+
+the world is watching and laughing.  obama doing the work of 100 bin ladens to take away our freedoms. #tcot #hcr
+
+steyn summarizes the fundamental change away from america as we have known it wrought by the #hcr bill http://is.gd/as7ao #rsrh
+
+today is a momentous day. today we lose our right to choose. http://tinyurl.com/yh5qojf ''give me liberty or give me death!'' #hhrs #tcot #hcr
+
+congress there is still time...don't ignore american voices, there will be consequences #hcr #tcot #nhgop #nhsen
+
+gop: when going to war, unilateral action good! when helping and saving people, unilateral action bad! #p2 #hcr
+
+dave camp: american people don't want tentacles of gov't making their health care choices. unless, y'know, we mean women. #hcr #gop #fail
+
+oh, now some are calling ''armed secession'' cuz of #hcr? are u shitting me???
+
+rt @doraknob: reconciliation ``fix'' blocked by law @maxinewaters #tweetcongress #hcr http://bit.ly/cannotreconcile
+
+another stupak opponent, and this one has a donation button @lindagoldthorpe http://www.lindaforcongress.com/ #hcr
+
+i oppose this bill pretty ferociously, but i gotta admit a lot of the r attacks on it are mutually contradictory. #hcrplus
+
+rt @pecosroybean: how many deals were made in the congress gym showers  and bathrooms... forget the backrooms! #ocra #tcot #sgp #hcr  #p2
+
+pelosi pulls out the 1965 medicare gavel to piss off the tea klan. http://bit.ly/cubkua #hcr #teaklan
+
+what is rep. neal talking about!? ha ha ha #medicare is in our dna? so is bankrupt public systems that don't work. #hcr
+
+rt @flyingpatriot: i am so proud of @governorperry and @gregabbott_tx for taking the first steps in stopping this unconstitutional #hcr
+
+hey #stupak since your vote switch, your opponent (@benishek) joind twitter & has  2k+ followers. #hcr (rt@brentteichman)#tcot#killthebill
+
+...socialist utopia on the backs of the american people.'' what drugs are some of these gop people on?! do they get them on medicare? #hcr
+
+it's an agenda that attempts to seize more control over the economy & our lives #hc #hcr #healthcare #handsoff #tcot #gop
+
+you get a sense that every time devin nuu00d1es says ''socialism'', ''tyranny'', ''totaliarism'' that he gets almost a full woody #hcr
+
+hey stupak: if u think the last weeks were hell...bbbbbbaby...u. ain't. seen. nothing. yet! #tcot #teaparty #hcr
+
+rep. buyer (r-in) was just on #cspan, giving intimidating and misleading info on veterans in #hcr #factcheck http://go.usa.gov/ils
+
+if you're going to side with the american people then #killthebill. #tcot #hcr
+
+fact check: ``healthcare bill would add billions to the country's debt'' http://ow.ly/1p8zc #hcr
+
+rt @gopleader fact check: more than half-a-trillion dollars in medicare cuts http://ow.ly/1p8si #hcr
+
+rt @owillis hey, remember how all that yelling at the townhalls last summer killed #hcr?
+
+rt @southsalem: rt @ianessling: rep. linder: ''this has never been about healthcare. it's been about govt.'' yes!  #tcot #hcr #killthebill
+
+cash under the mattress time, with passage of bill, govt has power to go into your checking account. #hcr #killthebill
+
+hey, remember how all that yelling at the townhalls last summer killed #hcr?
+
+rep. brown-waite you go girl! #hcr #killthebill
+
+rt @gopleader democrat #hcr fact check: more than half-a-trillion dollars in medicare cuts http://ow.ly/1p8si #hcr
+
+rt @gopleader fact check: more than half-a-trillion dollars in medicare cutsnhttp://ow.ly/1p8si #hcr
+
+bart stupak you made jesus cry. #traitor #hcr
+
+rt @gopleader fact check: more than half-a-trillion dollars in medicare cuts http://ow.ly/1p8si #hcr
+
+funny cartoon about republicans always ending up on the wrong side of history http://bit.ly/dbadpg #p2 #hcr
+
+rt @rsmccain: obamacare: it will cure the pre-existing condition known as freedom #hcr #sgp #tcot #yrnf #killthebill
+
+rt @rolandsmartin: i will not mince words on this. for a republican to scream communism on the house floor over #hcr is indefensible.
+
+america? perhaps. you, specifically? no. #hcr #p2 #tcot rt @congjoewilson mike rogers of michigan is right - america deserves better..
+
+chin up tweeties!  we'll only be a socialist country until nov, 2010!   #p2 #tcot #killthebill #hcr #c-span
+
+if americans need it ''now more than ever'' why are there ten years of taxes and 6 years of benefits, hmmm rep crowley? #hcr #killthebill
+
+rt @repmikecoffman: this bill contains so many sweetheart deals and giveaways.  it's sickening. #hcr #tcot
+
+the hypocrisy behind president obama's executive order: http://bit.ly/cjfusy #tcot #hcr
+
+some great points by @danaperino and bill burck on the executive order trickery http://bit.ly/caliph #tcot #hcr
+
+rt @gopleader fact check: more than half-a-trillion dollars in medicare cuts http://ow.ly/1p8si #hcr
+
+nunes says ''this debate is not about the uninsured... it's about socialized medicine... say no to socialism. no to totalitarianism!'' #hcr
+
+rt @gopleader: fact check: burdensome mandates, higher taxes = proven job killers http://ow.ly/1p91d #hcr
+
+fact check: burdensome mandates, higher taxes = proven job killers http://ow.ly/1p91d #hcr
+
+gop post #hcr faq. q: what will tomorrow be like? a: a blue sun, lava on ground, and demons flying around everywhere.
+
+rt @cprater: we are being held hostage by our gov't. #hcr #killthebill
+
+how any christian could oppose universal health coverage is beyond my comprehension. read matthew 25:31-46 & tell me wwjd  #p2 #hcr #tcot
+
+#gop: ''democrats taking americans on a head-long rush to socialism.'' ''#hcr largest legislative transfer of authority to govt in history'' #rs
+
+i have a feeling that some businesses and corporations will cut jobs just to teach the working class a lesson: ''don't fight back.'' #p2 #hcr
+
+after the vote, i also expect the roof of the chamber to open up and for god to strike dead the evil dems for passing #hcr reform.
+
+rt @rsmccain: obamacare: it will cure the pre-existing condition known as freedom #hcr #gop #tlot #teaparty #tcot
+
+rt @pourmecoffee: gop post #hcr faq. q: what will tomorrow be like? a: a blue sun, lava on ground, and demons flying around everywhere.
+
+#hcr did anyone notice that the anti-healthcare bill protesters all seem to be obese?
+
+no more paying the health care of members of congress who will deny the american people health care --john courtney, you rawk #hcr
+
+since this #hcr is so awesome, looks for the dems  to pick up some seats in november. #wait,what??
+
+rt @several_: rwnjs calling 4 assassination & revolution bcuz of a bill that will save lives, cut deficit & hinder corporate greed #hcr #wtf
+
+all #dems should be listening to tom price (r). he's a doctor and actually knows what he is talking about. #codered #hcr #killthebill
+
+create the socialist utopia! create the socialist utopia! create the socialist utopia! i'm ready comrades, are you? #hcr
+
+@thedrich the gop is out of touch. if they truly believe what they say, they should forfeit their #hc & join the rest of america #hcr #eric
+
+gop must not like the bible much: too many pages, took too long to finish, not written in public. #hcr
+
+as a #catholic & exec on a catholic #healthcare system, i'm appaled the catholic health assoc supports #obamacare #tcot #prolife #hcr #hhrs
+
+cold hard fact: those opposing #hcr are mostly heartless, greedy, uncaring, politically entrenched conservatives
+
+rt @toddeherman: rt @eweverson: rep. courtney lies, says #hcr bill will giv u & i the same hc as members of congress! |total lie
+
+fact check: ``premiums are likely to keep going up'' http://ow.ly/1p9em #hcr
+
+rt @melissatweets: rt @gopleader: fact check: ``premiums are likely to keep going up'' http://ow.ly/1p9em #hcr
+
+rt @jeremycrow4life: 17,000 new irs agents .. not 1 new doctor .. that's governments idea of healthcare #hcr #tcot #tlot #teaparty #ocra
+
+rep. kline, trust me, you are not listening to all your constituents.  #hcr #mncd2
+
+pelosi: ''this vote is historic.'' | yeah, so was the titanic. #hcr
+
+dear #gop: i dare you to run on taking away health care coverage from americans. #hcr #tcot #p2 #teaparty
+
+rt @ezraklein: gop's argument on #hcr is 1) it's socialism and 2) it cuts medicare too much? so, too socialist and not socialist enough? #p2
+
+jeb hebsarling just crammed 20 lies into 2 minutes. #hcr
+
+say again...dear #lord: pls forgive #dems. they know not what they do. #hcr #prolife #stupak #tcot #constitution
+
+add another $208 billion onto the #hcr tab for the `doc fix' which will need 2 pass in 2 months. another gimmick not including it in cbo amt
+
+getting ready to lead 9pm state ag conference call to begin legal action to protect states from unconstitutional #hcr  #tcot #sctweets
+
+rt @jasonbarnett still can't get out of my head how much $$ the gop poured into iraq, for no good reason, yet fight against #hcr for america
+
+democrats in congress declare war on the american people. #tcot #tlot #hcr #killthebill #ocra
+
+rt @owenbrennan: when you can't get an #obamacare doc to see you, will ''hope'' be considered pre-existing condition? #tcot #hcr #killthebill
+
+rt @karlrove: the hypocrisy behind pres. obama's executive order: http://bit.ly/cjfusy #tcot #hcr  #handsoff #gop #hc #ocra #p2 #teaparty
+
+cong. gwen moore, d-wi. says if debate wasn't so serious, gop arguments against #hcr ``would be laughable.''
+
+i will never comply w/obama uncare'' on patriotic resistance: http://ning.it/9vinor #tcot #hcr #teaparty #912 #teaparty #phnm
+
+when kids don't want to become #obamacare doctors, will democrats order people to go to medical school? #hcr #tcor #killthebill #teaparty
+
+time to get rid of a #gop that disrespects democracy this much. kill this, undermine that..no matter what majority has voted. #p2 #hcr
+
+rep paul ryan, you do not understand that the people of hope gave you 70 years for #hcr and you did not listen. pres obama did
+
+rt @triordan: rt @usvoteout: paulryan:''bring down this bill & bring back the ideas that made this country gr8!'' #tcot #hcr #killthebill
+
+fact check: gov't takeover of health care ``remains starkly unpopular'' http://ow.ly/1p9es #hcr
+
+rt @adamputnam: health bill hires 16,500 irs agents, not 1 dr. what's wrong with that math? #sayfie #hcr #fltcot #tcot
+
+rt @gopleader fact check: ``premiums are likely to keep going up'' http://ow.ly/1p9em #hcr
+
+another generation of protestors burned their draft cards. when will tea party protestors burn their medicare and va cards? #hcr
+
+me neither @cynthiaboaz haven't seen people work so hard 2 deny dignity & life to others since #gop voted to invade iraq. #hcr #p2 #tcot
+
+president obama hails return to paygo http://bit.ly/as59yt /now that he has a $700 b slush fun & $1.56 t deficit 2 play with! #p2 #hcr #tcot
+
+rt @keder: rt @conserv79: rt @wethepeopleusa: the french just called, they asked for the statue of liberty back. #tcot #hcr #killthebill
+
+rodgers: ''wrong bill at the wrong time.'' #tcot #hcr #tweetcongress
+
+rt @arrghpaine: arrogant is the claim that you can ignore the last national election (p.s. you lost) #p2 #hcr #ofa
+
+rt @texas_liberty: obama and his thugs may have opened a schism making 1861 look tame. #hcr #tcot #secede
+
+rt @surlyamy @paulfidalgo: i think we can all agree that the gop failed to block health care because they just didn't lie hard enough. #hcr
+
+rt @reptomprice: video: my floor speech tonight during the #hcr debate. http://bit.ly/978w2h // already saw you lie your ass off
+
+i will not mince words on this. for a republican to scream communism on the house floor over #hcr is indefensible. yes, stuck on stupid.
+
+@kevin_cardinale 48 states , can you believe that. wow. 216 democrats are destroying america, 218 counting obama and pelosi #tcot #gop #hcr
+
+this is the people's house, and the people don't want a government takeover of health care!!!'' mike pence #hcr #killthebill
+
+rt @indik: paul ryan condemns the idea of americans ''depending on the government 4 their livelihood.'' look in the mirror, genius. #hcr
+
+think of #hcr as a desk from ikea. at first it's nice and easy to assemble, but then it scratches! #shelleymoorecapitoanalogies
+
+the #killthebill fight is not over! votes are short.  keep emailing!! http://ow.ly/1p9oy #hcr #sgp #tcot #teaparty #ocra
+
+watching the #hcr debate over the past year has literally been like watching a car crash in slow motion. impact is now.
+
+rt @jdpatton: rt @timmyf: if republicans have  great ideas for #hcr, why didn't they do it when they had huge majorities? hint: they don't.
+
+think of #hcr as your ncaa bracket. at first you're doing well, but then kansas loses and you're screwed! #shelleymoorecapitoanalogies
+
+don't open dm links!!! haters against #hcr
+
+oh, i get it. in the gop mind, american people = them. #p2 #hcr #arrogance #selfdelusion
+
+where is the #prochoice outrage?  this #hcr sounds alot like a national gag rule.
+
+i should be in bed. i have a 0340 wake-up call, but i can't stop watching the train wreck.n#hcr #dumpdennis #corriganoh10 #teaparty
+
+rt @teresa1908: rep eric cantor- ''we're in debt we should not incurr anymore debt.'' o.k. end the wars for profit mr cantor. #p2 #hcr
+
+i cannot stand rep. eric cantor!! he is so full of shit and i get physically sick when he opens his lying mouth! #p2 #hcr
+
+rt @jeffersonobama: tea party turns into klan rally http://goo.gl/gbmh #p2 #gop #hcr
+
+we are truly at a critical point in this country's history. we are at a crossroads #hc #hcr #healthcare #handsoff #tcot #gop
+
+would be nice if the u.s. didn't always fight -be dragged kicking/screaming to do what is right (i.e. slavery,civil rights) #hcr #gayrights
+
+democrats have become the party of no: no freedom, no wealth, no prosperity. #tcot #hcr
+
+i can't wait for this anti-debt gop to attack the defense budget with the same fervor #hcr
+
+gop rep. dave camp reading democrat criticisms of the massive takeover plan that they are now all supporting. #hcr
+
+its time to clean house! #hcr #tcot
+
+you don't ''give'' us anything you asshat!  our rights do not come from you!  #cspan #hcr #killthebill
+
+it is captain orange and his stuttering delivery. #hcr #cspan
+
+the bill ''hurts our seniors and special needs population by taxing hearing aids,pacemakers and wheel chairs!'' #hcr #wcot
+
+when i asked delauro what provision of constitution she was relying on to vote in favor, she said ''its not about the constitution'' #hcr
+
+boehner: ''i rise tonite with a sad and heavy heart.'' #hcr #teaparty #tcot
+
+c-span: here we go, it's boehner time! at least one orangeman will be losing one day later.  #hcr
+
+rep john boehner - proof the gop loves people of color (as long as they are orange) #hcr
+
+rt @lynckos: here we go! boehner: ''oompah loompah doompidy doo! i've got another bucket of bs for you!'' #hcr #p2
+
+um...boehner? people hate congress because of republican obstructionism #hcr
+
+whatever rep. boehner, @barackobama tried bipartisanship and republicans didn't want to cooperate, so saddown!!! #hcr
+
+free preventative care for all, even for republicans! #hcr #tcot #p2
+
+john boehner kicking progressive liberal  buttox! #tcot #p2 #hcr
+
+i love how republicans are yelling ''no'' in response to boehner. reaffirming that republicans are the party of no. #hcr
+
+boehner is trying to do an imitation of a black preacher.  odd fit. #hcr
+
+#whatif republicans spent same effort to make the govt work well as they do to destroy it? #hcr
+
+announce your vote one by one, you coward democrats! #tcot #hcr
+
+rt @jeremycrow4lifen  n17,000 new irs agents .. not 1 new doctor .. that's governments idea of healthcare #hcr #tcot #tlot #teaparty #ocra
+
+rt @nerdette: john boehner does a real disservice to oompah loompahs everywhere #hcr
+
+in john boehner the gop has the leader they deserve: shallow, vapid, stupid, and corrupt. #p2 #hcr
+
+rt @davidcorndc: boehner is truly grandstanding. this is how he wants to go down? #hcr
+
+rt @gopleader: fact check: gov't takeover of health care ``remains starkly unpopular'' http://ow.ly/1p9es #hcr
+
+rt @markos rt @nerdette: john boehner does a real disservice to oompah loompahs everywhere #hcr
+
+rt @alpha1906 boehner: the man who passed out checks from the tobacco industry on the house floor is railing against backroom deals. #hcr
+
+the minority leader is saying the majority is overruling the will of the majority of americans. hmmm. #hcr
+
+rt @kathrynlopez boehner had 2 get mad, it's the people's house and people are mad. they've been on the hill all weekend. #killthebill #hcr
+
+
+Correctly labeled: neutral
+--------------------------------------------------------------------------------
+despite reports, pelosi aides say rep. stupak is not a ''yes'' vote yet. #hcr
+
+rt @medializzy: stupak office recording yeas & nays of callers on #hcr bill - pls call 202.225.4735 #killthebill
+
+today #hcr will pass in dc also #immigration marches going on in dc and los angeles, asking for reform.
+
+watch #hcr vote live. http://www.huffingtonpost.com/2010/03/21/health-care-vote-live-upd_n_507238.html#s75012
+
+rt @philipaklein: rt @jeffreyyoung_hc: dem reps. lincoln davis (tn) and john tanner (tn) will both vote no again on #hcr
+
+az gov brewers letter to pelosi & reid re: #hcr http://ow.ly/1p544 #killthebill #codered
+
+shouldn't walk and tweet rt @deidrewalshcnn rode elevator with stupak - still a no. sez... he has enuf votes to make the difference on #hcr
+
+rt @toddstarnes: dem  chaka fattah compares healthcare passage  to the resurrection of jesus christ. #hcr
+
+house debate on health care bill - watch live: http://bit.ly/9jxo9e via @msnbc  [vote expected this evening]  #hcr
+
+rt @aoshq: voting begins http://bit.ly/9jbvlp #hcr (the vote to proceed on the vote)
+
+rt @healthreformnow: procedural vote to move forward on #hcr passes 228-195
+
+rt @brikeilarcnn: rep. bart stupak just announced a 4 p.m. press conference. #hcr
+
+michellemalkin: procedural vote to move forward on #hcr passes 228-195
+
+cnn quoting dem leaders as having the votes #hcr
+
+rep. bart stupak (d-mi) news conference - live at 4:00pm et at www.c-span.org #cspan #hcr
+
+rt @marcambinder: white house official says text of executive order will be released ''very soon.'' #hcr
+
+how are the news media covering today's vote on the health care bill? check out the best coverage on @newstrust: http://bit.ly/4pvha #hcr
+
+rt @fivethirtyeight: cnn: steve driehaus will vote yes. #hcr
+
+we'll soon see: the hill says stupak group voting yes on #hcr. http://bit.ly/alvtzo
+
+president of national association for the advancement of bart stupak to speak at 4:00 on #hcr deal.
+
+how long can they do that? @bacigalupe'' via @cqhealthtweet: last votes expected 10 to 11 p.m. #hcr #healthcare
+
+the health care vote is also huge for the future of student aid ... more info here: http://bit.ly/dj4atm #hcr #safra
+
+stupak folds for an empty piece of paper. once again confirmed: there is no such thing as a ''moderate democrat.'' #hcr (via @michellemalkin)
+
+stupak: dems are ''well past 216'' votes for #hcr #healthreform
+
+rt @davidcmurphy: c-span's website overloaded; watch the livestream of the house #hcr debate here: http://www.politico.com/livestream/
+
+rt @leaderhoyer: i was on meetthepress this morning to discuss today's expected vote on #hcr http://go.usa.gov/ilv // and you rocked, sir!!
+
+state of florida to file suit the moment obama signs #hcr
+
+rt @thatcher: state of florida to file suit the moment obama signs #hcr
+
+about to go on msnbc to talk #hcr. in moments.
+
+when health care reform gets personal  #hcr http://whrrl.com/experience/story/19484971
+
+outspoken democratic rep. anthony weiner faces the tea partiers http://bit.ly/bng8yk #hcr
+
+white house announces obama will make statement tonight after the ''final vote'' in the house. #hcr
+
+we're looking for your comments on #hcr to include on our homepage.  use #nythcr. (live blogging here: http://nyti.ms/2v9noo)
+
+latest prediction on #hcr schedule today, from politico: http://bit.ly/c73ghj #ofa #p2
+
+cong.paul kanjorski (pa-11) @kanjo4congress tells @wilknewsradio he will vote ''yes'' on #hcr
+
+#hcr protesters now forming a human ''no'' outside.
+
+2 photos of president obama working the phone today: http://bit.ly/c4kolk & http://bit.ly/cxpd7i #hcr
+
+house now taking a big procedural vote on the #hcr legislation.
+
+new video #hcr dems make impromptu march to capitol for health care vote. crazy scene: http://tinyurl.com/yl4ousv
+
+final tally on procedural vote on rules for debate: 228-202. #hcr
+
+rule passed 224-206.  rep space (oh) will be a no vote. #hcr (rm)
+
+turn on #cspan - i will deliver the opening statement of the final debate on #hcr in a few minutes after this series of votes.
+
+watch the live video of the house debate on #hcr: http://bit.ly/bqczaq @cspan offers gavel to gavel coverage #p2
+
+my 4-minute video summary of the health care reform bill the house will vote on today: http://bit.ly/8rgv4s #hcr
+
+some house members getting only 30 or 45 seconds to state their position on #hcr during tonight's debate.
+
+rt @rborntrager health care bill has been posted for 72 hours now. #hcr #p2
+
+chairman george miller (@askgeorge) is now is speaking on the house floor in favor of #hcr
+
+tune in @reppaulryan speaking around 855pmet on house floor - http://twurl.nl/iws30m #hcr
+
+final house votes expected around 10 to 10;30 p.m. #hcr #healthcare
+
+leader boehner will be closing #hcr debate for the house gop in approx 10 min. tune in to c-span to watch his speech live.
+
+rt @majoratwh: remarks in east rm likely after that call...obama will not sign sen bill tonight or mon...later in week. #hcr
+
+gop rep. dan lungren asks for a separate vote on obama exec order. #hcr
+
+we are almost at the end of the #hcr debate.  the final speeches on the house floor. watch live: http://bit.ly/4brxl0
+
+didn't know this was in #hcr bill: a 10 percent excise tax on indoor tanning services.
+
+obey is in the chair for a reason. he knows house rules inside and out #hcr
+
+
+Correctly labeled: positive
+--------------------------------------------------------------------------------
+it is great to know that there are people who care about #hcr and not what's going on in #tigersbedroom ....
+
+contact @lorettasanchez cos & urge yes on #hcr. adriene.elrod@mail.house.gov pls rt 202-225-2965
+
+speaker pelosi wielding the same gavel today used to pass medicare. #hcr #ofa  #p2
+
+rep. sanchez still undecided! tweet @lorettasanchez now to vote yes on #hcr. 1/4 in ca uninsured - 190,000 in her dist!  please rt
+
+rt @stevekimura: i think the ''hopey-changey thing'' is looking good today. #fupalin #hcr // #p2
+
+i would rather have the govt. involved in my health care than some rich asshole millionaire on a yacht telling me i can't have any! #hcr
+
+rep langevin (d-ri) - if we secure #hcr today, we know many americans will wake up to a better tomorrow for themselves and their families.
+
+via @jcohntnr, here's a timely & thoughtful piece by @ezraklein on who #hcr really targets to help in america: http://tinyurl.com/yhtwk35
+
+every single person i encounter wants #hcr, this bill & a whole lot more. along w/ my prof. org and catholic hospital i work for. get a grip
+
+if it is going to protect 11,000 families from bankruptcy, then radicalize me --rep alcee hastings on #hcr
+
+100% support ag mccollum's lawsuit to declare health care bill unconstitutional.  he's right on the law, and right to take action. #hcr #hc
+
+[thanks for civility!] rt @barrykw: i don't think this bill is a good one but i still think its a step in the right direction! #hcrplus
+
+rt.@drsforamerica doctors, nurses, hospitals support #hcr bill. health professionals know we need this bill to pass. #hcr #p2 #p2b
+
+rt @avivao: rt.@drsforamerica doctors, nurses, hospitals support #hcr bill. health professionals know we need bill to pass. #hcr #p2 #p2b
+
+healthcare should be a human right guranteed to every human being no matter race, color & creed..it should not be for profit ever!  #hcr
+
+@kanjo4congress thank you, congressman kanjorski, for doing the right thing & voting for #hcr
+
+there is a god!! rt @nytimes    your thoughts on health care reform now that democrats have the votes to pass a #hcr bill? include #nythcr.
+
+i believe in #obama & #pelosi, & all of my #tweeps. stick together & make a story of #changegame our grandkids will celebrate! #hcr #p2
+
+rt @sandibehrns: how many of those 228 are going to stick with yes thru 2 more votes? #hcr #p2 //all of em better!
+
+i am happy that #hcr is going to pass. but i want a system like france's health care. read on... http://bit.ly/1qhugz
+
+vote done. passes 224 to 206. here we go.....#hcr #p2
+
+don't forget to volunteer for reps who fight for #hcr: http://bit.ly/9ff2ox #ofa #p2
+
+yes we did. again. #hcr
+
+yes! senator kennedy, this is for you!!! thank you president obama! thank you nancy, thank all of you!!!!
+
+2 @assassingrl before the #hcr vote is not a good time to attack anti-choice democrats in congress who say they plan to vote for #hcr.
+
+to all my medicare patients whose medicine i paid for when the donut hole hit: you were worth it then, you are worth it now. #hcr
+
+show congress who you're fighting for, and why health reform means so much to so many people: http://bit.ly/ccd6nb #hcr #p2 #topprogs
+
+most unheard of rt @emilydawnlove this canadian wishes the americans luck passing your commie healthcare reform tonight! #hcr
+
+the rule for #hcr has passed-- we've cleared the way for final passage. history will be made this evening. #fb #p2
+
+rt @meryl333: i am so proud of #obama and the democrats for getting their act together!  yes. yes. & yes !  #hcr
+
+guys, just got back from my accountant's who is a small business owner. he supports #hcr #p2
+
+very proud of rc religious who have spoken out for #hcr. go sisters! you basically invented us healthcare, your opinion counts.
+
+club sensation dj @russerxm_nbc picks a hot cut. rt: pre #hcr final vote dj-ing. this one for president obama: http://bit.ly/4mqvz6
+
+shut up and pass the bill already! #hcr #healthcare
+
+pls tweet @lorettasanchez now2 vote yes on #hcr. 1/4 n ca uninsured-190,000 n her dist!
+
+@lorettasanchez pls vote yes on #hcr. 1/4 n ca uninsured-190,000 n your dist. families r counting on u. this is the 1st step. thank you!
+
+top 10 immediate benefits you'll get when #hcr passes http://bit.ly/cnshpj
+
+rt @kklausser: finally! congresswoman wasserman schultz! i've been waiting for her. #hcr // i do love me some wasserman schultz.
+
+...i'm not even christian, but come on! matthew 25:31-46 is just good sense! it's about humanity ppl! #hcr   #healthcare
+
+@repblumenauer i am an or college student studying in ireland & watching the vote online. thank you for supporting health care reform! #hcr
+
+rt @jbax52: yes we can!  yes we can! yes we can! yes we can! yes we can! yes we can! #hcr today  &  #obama2012
+
+the student loans in the bill are already funded by the us government! #hcr #idiotrepublicans
+
+being a woman is a pre-existing condition'' rep lynn woolsey (d) california (via @tashathefox) take a stand 4 women's health! support #hcr!
+
+rt @sklopfer: we applaud nancy pelosi for what she has brought to us tonight. she and president obama will go down in history. #hcr
+
+omg. stop talking about health care reform and just reform the damn health care already, congress! ffs! #hcr
+
+10 immediate benefits you'll get when health care reform passes (huffpost) http://bit.ly/d3kcvf #hcr #news
+
+after this passes, pelosi goes down as one of the top 3 most powerful speakers in american history. stimulus, cap & trade, 2 #hcr in 1 year.
+
+wow! a david frum column i can find some agreement with. http://bit.ly/9iklox voting against common sense and good will is never smart. #hcr
+
+so proud of you james clyburn!  #sctweets #scpol #hcr #sc
+
+10 immediate benefits you'll get when health care reform passes (huffpost) http://bit.ly/d3kcvf #hcr #health #news /via @flipbooks #p2
+
+looks like the vote will happen in 15-20 minutes on #hcr. the energy is alive in and around the house chamber. #fb #p2
+
+i am a woman and i am not a pre-existing condition. #hcr http://bit.ly/c5tokg
+
+i just heard your speech on the floor @ericcantor. as an american, i support this #hcr bill. note it.
+
+i like rosa delauro. that was a pretty damn badass #hcr speech.
+
+every time boehner crys an angel gets it wings #hcr
+
+
+--------------------------------------------------------------------------------
+INCORRECTLY LABELED EXAMPLES
+--------------------------------------------------------------------------------
+Incorrectly labeled: negative mistaken as neutral
+--------------------------------------------------------------------------------
+rt @nrcc: brian #baird's (d, #wa03) `yes' vote on #hcr takeover likely to hurt dems vying to succeed him #gopcodered
+
+tell stupak to vote no on #hcr: phone: (202) 225 4735 fax: (202) 225 4744 use free/online http://is.gd/aroyx  for faxing
+
+rt @red_forest @michellemalkin heads-up: six pro-life dems working on #hcr sellout deal - http://is.gd/aoskp (h/t @allahpundit)
+
+rt @jasoncarini: stupak office recording yeas & nays of callers on #hcr bill - pls call 202.225.4735 #tcot #sgp #rfvradio (via @medializzy)
+
+retiring dem tanner's (d-tn) `no' vote on #hcr takeover forces pelosi to find another `yes' http://is.gd/aro4y #gopcodered
+
+boehner:  ``pro-life'' democrats can't hide behind an executive order http://ow.ly/1p40x #hcr
+
+@reppaulryan just now on the floor of the house of reprehensibles: ''this bill is a fiscal frankenstein'' #hcr
+
+rt @cathymcmorris: rep. paul ryan just summarized it best: ''this bill is a fiscal frankenstein'' #hcr
+
+will women be thrown under the bus for #stupak?  seems the religious taliban will get their way for their vote on #hcr
+
+rt @nrcc: pomeroy (d-nd) ends his silence - and career - will vote `yes' on #hcr takeover http://bit.ly/dnlcd8 #gopcodered via @angelarmlash
+
+carter pollster caddell called health bill vote ''political jonestown'' for house dems http://tinyurl.com/yl6ears #hcr
+
+call rep. paul kanjorski at (202) 225-6511and urge him to vote no on #hcr
+
+rt @kathrynlopez: most quoted line to me in the next 24 hours will be: never trust a democrat. #sigh#hcr
+
+jo ann emerson is reported to be whipping up crowds that are hurling racial slurs  http://kcblueblog.blogspot.com/ #hcr #mo8
+
+wsj: obama's health care push turning america into a ''banana republic'' -> http://tinyurl.com/yhuggo3 #tcot #sgp #hcr
+
+rt @dancleary: rt @stmichaelsword: statements from several #prolife leaders on #stupak caving http://bit.ly/am7wgh #hcr
+
+in the bill:  page 429 lines 1-9: an  ''advanced-care planning consultant'' will be used  frequently as a patient's health  deteriorates. #hcr
+
+rt @cathymcmorris: rep. paul ryan just summarized it best: ''this bill is a fiscal frankenstein'' #hcr
+
+rep. buchanan (r-fl) was just on #cspan, giving misleading info on medicare cuts: #hcr #factcheck: http://go.usa.gov/ilg
+
+fact check: more than half-a-trillion dollars in medicare cuts http://ow.ly/1p8si #hcr
+
+rt @arensb: in 10 years, will the next generation of teabaggers hold up signs saying ''hands off my obamacare''? #hcr
+
+rt @joetaxpayer: http://twitpic.com/1a49p6  salazar to vote ''yes'' on #hcr after obama admin sends $3.5 million to his district | bribeorama
+
+$1.55 trillion: projected fy 2010 deficit-11x the 10 yr ''savings'' dems claim #hcr will create by spending over $1t for gov takeover of #hc
+
+you do realize it was the passage of medicare that caused unicorns to become extinct. #hcr #icanmakeupshittoo
+
+rt @joetaxpayer: r.i.p. democrat control of congress (2007-2011) #hcr #teaparty #rememberinnovember
+
+rt @dataaide:  @howardman1: the french called &want the statue of liberty back!! @foxandfriends @txjogger12 @grettawire #hcr // lol
+
+boehner alert level raised to burnt sienna. #hcr (via @kathtx)
+
+making sure i have the argument straight: #hcr (1) is a government takeover and (2) cuts medicare too much?
+
+yes boehner what i see frightens me and it is you #hcr
+
+
+Incorrectly labeled: negative mistaken as positive
+--------------------------------------------------------------------------------
+looks like pelosi is getting ready to play whack-a-mole with her giant gavel #hcr
+
+polling proof: vote yes today -- say bye bye in nov @repblumenauer @repcarnahan #tweetcongress #hcr http://bit.ly/advicefordems
+
+polling proof: vote yes today -- say bye bye in nov @dickdurbin @russfeingold #tweetcongress #hcr http://bit.ly/advicefordems
+
+@reppaulryan thank you for all your efforts on #hcr ! #killthebill
+
+rt @rollcall: frank rips republicans for egging on chamber protester http://bit.ly/co555f #hcr #p2 #topprog
+
+this is fox news's ''million man march'' against #hcr. looks more like a few hundred.  http://twitgoo.com/ld2q8
+
+``it is almost like the salem witch trials. the health bill has become their witch.'' rep. barney frank. for real! #hcr
+
+glad to see @evalongoria whipping for #hcr.
+
+polling proof: vote yes today -- say bye bye in nov @frankpallone @repperlmutter @cbrangel #tweetcongress #hcr...
+
+polling proof: vote yes today -- say bye bye in nov @frankpallone @repperlmutter @cbrangel #tweetcongress #hcr...
+
+our blood is on #stupak 's hands if #hcr passes today.
+
+matsui on cspan. proud to cast her vote for #hcr #p2. now the bigot foxx is on...what a joke.
+
+sob story!  drink!  #hcrdrinkinggame
+
+this is not about our health anymore than the flotus obesity speel is about our hips! it is about control and power! #tweetcongress #hcr
+
+class! rt @joewilsonjr: first ho michelle obama very busy today giving handjobs for #hcr votes. you can take the ho out of the projects but
+
+going to disneyland. which is more realistic than the fantasy world stupak lives in. #hcr
+
+a further loss of liberty is upon us as the nimrods in washington vote on #hcr. enjoy your freedom while you can...
+
+rt @jlocher1: http://ow.ly/i/n45 view from the speaker's lobby at noon today of the incredible crowd rallying against this #hcr bill.
+
+rt @ladyofshalott06: might i remind everyone of the importance of passing this bill? rush limbaugh will leave. #hcr
+
+john boccieri hits nail on head. rs voted to fund iraqi universal coverage to the tune of a billion dollars. #hcr
+
+rt @otoolefan: sen jeff secessions will vote yes on #hcr if obama signs exec. order making robert e. lee's birthday a federal holiday. lol
+
+my what sharp teeth you have, #obama! you neo-liberal in centrist clothing! #hcr #healthcarereform #progressive #anarchist #rebelleft #left
+
+rt @emgtay: rt @jenfidel:  today we are reminded > ''freedom is never more than one generation away from extinction.'' ~r reagan #hcr
+
+this reads like the #hcr bill - rt @chucktodd tkjdie5ld3m6ig11bhrpcgxlihnvdxjjzxmgc2f5ifn0dxbhaybpcybhihllczsgchjleiblegvj ig9yzgvyigxhbmd1y
+
+#rush limbaugh is leaving....on a jet plane...don't know.... #hcr #p2
+
+typical. old white man talking about a woman's reproductive rights. #hcr
+
+teabaggers claim nobody can read a 2,000 page bill.  the harry potter series is 4,224 pages and millions of children have read it. #hcr #p2
+
+rt @mcjusa: every single one of these self righteous whores exempted themselves from this wonderful #hcr last nite heloooooooo #p2#hcrwakeup
+
+rep. rahall's phone lines are now working! - call him and tell him what you think about his yes vote on #hcr. | 202-225-3452 #wv03
+
+rt @irishspy: rt @rsmccain: obamacare: it will cure the pre-existing condition known as freedom #hcr
+
+rt @arrghpaine: what do you say comrades! nunes must not win his next election, i'll provide the vodka! #p2 #hcr #ofa//i'm in
+
+rt @toddstarnes: pro-life group strips stupak of ''defender of life'' award. #hcr #consequences #justthebeginning
+
+rt @toddstarnes: pro-life group strips stupak of ''defender of life'' award. #hcr #consequences #justthebeginning
+
+obamacare: it will cure the pre-existing condition known as freedom #hcr
+
+rove: electoral devastation after #hcr plouffe: i wouldn't unfurl the mission accomplished banner so fast #awesome #p2 http://bit.ly/bglsly
+
+if #obama `s #healthreform plan passes sunday, i'm changing my party affiliation on monday. #progressive #hcr #left #politics #change not!
+
+pathological greed & lack of compassion for fellow humans are both pre-existing conditions. luckily, help will soon be available #hcr
+
+rep ryan sez #hcr is paternalistic. telling ppl who they can marry & what they can do with their bodies isn't? #prochoice #marriageequality
+
+rt @kar1211: rt @thatsagoodbelle: they should rename the bill the rush limbaugh relocation act of 2010.  #hcr #p2 /perfedtlol!
+
+eric cantor makes me seriously consider renouncing judaism and the great commonwealth of virginia. #hcr
+
+repubs! immediately introduce a bill demanding constitutionality review of this bill!  do it now! #hcr #tweetcongress
+
+shut up john boehner. #hcr
+
+
+Incorrectly labeled: neutral mistaken as negative
+--------------------------------------------------------------------------------
+stupak office recording yeas & nays of callers on #hcr bill - pls call 202.225.4735 #tcot #sgp #rfvradio
+
+watching, probably the best show on tv today, the #hcr reality show on c-span.
+
+rt @garywhitney: rep jan schakowsky: 50 dems wld walk if stupak language is re-ins http://bit.ly/walkout #hcr #tcot #killthebill #teaparty
+
+if phones busy, fax reps: http://bit.ly/lyh2u use free/online fax: http://bit.ly/13f4ge /@gottalaff @charyl @gr8rdh n#hcr #hc
+
+2:10p - house rule chair louise slaughter (d-ny) calls up ''rule'' on house #hcr floor procedure - they're off!
+
+rt @ben_howe: stupak  he's recording yay/nay call-ins to help make his decision. (202) 225-4735  call now!  keep trying! #tcot #hcr
+
+cantor pushing memo that dems are 7 votes short, but he assumes 12 stupak block votes. i think we're done. http://bit.ly/9ipfod #hcr #p2
+
+rt @jbroks86: rt @mpothehill gop lawmakers unveil ''don't tread on me'' flag before anti-#hcr crowd. http://twitpic.com/1a29w7
+
+photo :-) we'll see which side of  #hcr he's on after the vote rt @markshepard unusual pic of bald eagle ''dancing'' http://bit.ly/17q50x
+
+rep degette sez pro choice members in 1 rm, stupak in another, with wh & pelosi officials running shuttle between them #hcr
+
+crammed into an elevator with reporters stupak says he's still a ''no'' and that no agreement has been reached. #hcr
+
+rt @conniehair: unless a deal is struck with stupak, dems appear to be short on votes http://ow.ly/1p5fl #tcot #hcr
+
+rep. devin nunes (r-ca) attacks va healthcare on c-span. keeps repeating less government, less taxes. #hcr #healthcare vote this bum out!
+
+as recent as 20 min ago, stupak is still a no vote according to carl cameron #tcot #hcr
+
+darrell issa makes a point of order saying #hcr was product of backroom deals, out of public light and full of earmarks
+
+@reppaulryan ,''we govern by consent of the governed'' #tcot #p2 #hcr
+
+rt @daniellecnn: curious how #hcr will impact you? send me your q's! @sanjayguptacnn is live w/ @wolfblitzer & will answer them for you!
+
+rt @ingrahamangle nrcc count: 214 no, 213 yes - dahlkemper (pa), berry (ar), kanjorski (pa), mcmahon (ny) undecided #tcot #hcr
+
+nrcc count: 214 no, 213 yes - dahlkemper (pa), berry (ar), kanjorski (pa), mcmahon (ny) undecided #tcot #hcr
+
+rt @capitolhillcnn pro-life dems huddled in back corner of the house chamber: stupak, mollohan, pomeroy & dahlkemper /via @nicopitney #hcr
+
+unless a deal is struck w/ stupak, dems appear 2 b short on votes http://is.gd/arsx9 #hcr #tcot #sgp #tlot #hhrs #ocra  #teaparty #iamthemob
+
+tea party'' thugs spit on black rep, shout ''kill the bill, nigger'' at rep john lewis. http://bit.ly/9ddoqs #hcr #news #tcot #p2 plz rt
+
+breaking from cap hill: mike pence just came out onto the balcony w/a sign: ''dems don't have the votes'' #tcot #hcr #th2dc
+
+rt @christinakb breaking from cap hill: mike pence just came out onto the balcony w/a sign: ''dems don't have the votes'' |#hcr #handsoff
+
+rt @christinakb breaking from cap hill: mike pence just came out onto the balcony w/a sign: ''dems don't have the votes'' #tcot #hcr #th2dc
+
+as of 317p et: 39 democratic 'firm no, leaning no, likely no' http://is.gd/arusn #tcot #sgp #ar02 #ar2 #hcr
+
+watching c-span today isn't for the faint of heart. #hcr
+
+at doctors for america, thousands and thousands of doctors have been fighting for #healthreform for more than a year. #hcr
+
+more buying of votes >>> insurers, doctor-owned hospitals get late help - abc news: http://bit.ly/bwg5tx #tcot #hcr #killbill
+
+orszag hits back hard at #hcr fiscal critics http://bit.ly/ce28z9
+
+rt @lilleth71  more buying of votes >>> insurers, doctor-owned hospitals get late help - abc news: http://bit.ly/bwg5tx #tcot #hcr
+
+rt @atdleft: http://bit.ly/bthfoe stupak folds, obama exec order here, #hcr now set to pass
+
+want a real #hcr policy expert in the massachusetts state house? help our campaign today! http://bit.ly/6phitl #mapoli
+
+moneybomb. @susanannehiller: bart ''the baby killer'' stupaks opponent give now, give big: http://bit.ly/9jsucj #tcot #prolife #hcr
+
+latest: stupak sells out! yoest declares 'pro-life emergency'! http://bit.ly/9an9pg [] #hcr #teaparty #tcot plz retweet
+
+as @ryangrim notes, with the stupak crowd in hand, pelosi would now have had enough votes for a public option #hcr
+
+art.1u00a78 us const. does not allow gov to regulate commerce inactivity! #tcot #teaparty #hcr #congress #killbill #fnc
+
+@alangrayson millions of americans are holding their breath today, hoping to learn if they'll finally be able to see a doctor tomorrow. #hcr
+
+rt @rhodesnews: progressives: you have awakened a sleeping giant.  http://bit.ly/a9qs4p #hc #p2 #topprog #tcot #tlot #hcr
+
+i'm taking a break from this healthcare mess and watching the rockies vs royals!  go rockies!  #killthebill #hcr #rockies
+
+stupak says his understanding is that obama would sign the exec order after he signs #hcr billl into law.
+
+staten island's michael mcmahon will vote against #hcr
+
+stupak: ''we're now well past 216.'' #hcr
+
+details of the phony baloney exec order via @jamiedupree http://bit.ly/cgqwrh #hcr
+
+liberty first pac will now be targeting bart stupak for his betrayal of america. http://bit.ly/ciyw3a #hcr
+
+rt @nicopitney: as @ryangrim notes, with the stupak crowd in hand, pelosi would now have had enough votes for a public option #hcr
+
+if link to senate gop release on #hcr fix rule violation not working for you, try here: http://bit.ly/be1xj5 #tcot (via @bill_dupray)
+
+anticipating victory, pres. obama to make east room statement tonight after house final passage of #hcr legislation.
+
+mr. speaker i ask unanimous consent that they stop this conga line, or, turn up the music.  #hcr
+
+bart stupak's opponent benishek: http://www.facebook.com/group.php?v=wall&gid=287806148754 #tcot #hcr #teaparty #gop #killthebill
+
+rt @drsforamerica doctors, nurses, hospitals support #hcr bill. health professionals know we need this bill to pass. #hcr #tcot #gopwaterloo
+
+i see rep. stupak's wikipedia has been updated http://twitpic.com/1a3bq0 #tcot #hcr
+
+flash protesters throw bottles at capitol, possibly explosives: http://bit.ly/69wad5 #hcr #teaparty #obamacare #killbill #healthcare #gop
+
+#obama care gives $1b / yr to the irs for enforcement of the mandate http://bit.ly/9x1lia #killthebill #hcr #healthcarereform #freedom #digg
+
+rt @schmiss: one of them should say ''iawtc'' and every other republican shout rt it. #hcr #cspan
+
+please don't donate to stupek opponent unless you know it is legit! #tcot #p2 #hcr #stupekobama
+
+nearly 60 gop mebers have asked to ''revise and extend'' their remarks ''in opposition to this flawed health bill.'' #hcr
+
+rt @markknoller anticipating victory, pres. obama to make east room statement tonight after house final passage of #hcr legislation.
+
+i assume y'all have been playing the #hcr drinking game with me: reserved balance yield flawed unanimous consent objection speaker gentleman
+
+stupak's number is 202-225-4735 #tcot #p2 #hcr
+
+if you're in #hcr land too, check out our page for the reconciliation bill: summary, links, news & blog coverage: http://bit.ly/bx9haf
+
+rt @afeagle1: #tweetcongress remember it's the voters in your district who hold your fate with their votes not the dnc #teaparty #tcot #hcr
+
+aside from voting on ''the rule'' for #hcr, the house is also voting to recognize cold war veterans and aviators in the armed forces
+
+house rule for tonight's #hcr debate passes 224-206. all republicans and 28 dems vote against.
+
+rt @michellemalkin: final tally on procedural vote on rules for debate: 228-202. #hcr #tcot
+
+obama outreach: aide says obama has had >90 phone calls and/or meetings with members of congress on #hcr over past week.
+
+democrats worried about gop motion to recommit on stupak language http://bit.ly/bk4wbr #hcr
+
+rt @conniehair: democrats worried about gop motion to recommit on stupak language - thehill.com: http://bit.ly/dbzvqo #hcr #tcot
+
+rt @mollyhooper gop rep. joseph cao (la.) tells me he will not support the #hcr bill. cao was only gop vote for http://tl.gd/j1300
+
+tea party rally on capitol grounds is starting to thin out, apparently amid word #hcr is on track to pass.
+
+if house passes rule, house proceeds to ''general debate.'' sounds like dinner at my house. #hcr
+
+college students will be able to stay on their parent's plan until they are 26 if they need to..-barackobama #hcr #children #fem2
+
+rt @thefix: a great primer on what we know (and what we don't) about the health care vote tonight. http://ow.ly/1p8u8 #hcr
+
+a great primer on what we know (and what we don't) about the health care vote tonight. http://ow.ly/1p8u8 #hcr
+
+rep linder ''this has never been about health care. this is about government.'' #hcr #tcot
+
+if you're getting a migraine from this #hcr debate, that pre-existing condition will be covered . . . in 2014
+
+the president working the phones in the oval office, looking for #hcr votes. (wh photo/pete souza) http://bit.ly/cblcaa
+
+first fallout: susan b. anthony list strips stupak of ''defender of life'' award http://ow.ly/1p9ic #prolife #prochoice #hcr
+
+#hcr opponents altmire, berry, tanner, and teague voted for the rule.
+
+rt @thenote senate fight starts: gop says senate parliamentarian will kill fix-its bill: http://ow.ly/1p9wd #hcr
+
+i keep clicking the ''sound off'' button on the cnn feed of the #hcr debate, but it won't let me say anything. keeps muting.
+
+rt @senate_gops breaking: health care ``fix'' bill may not advance in senate -- details here: http://ow.ly/1p9wx #hcr
+
+my parents love the #hcr tweets - made tweeting @ dinner slightly more acceptable. hope mom doesn't try to join twitter ((gasp))
+
+rt @toddthurman: final vote at approx. 10pm eastern according to cspan #hcr #tcot
+
+rt @daniellecnn: curious how #hcr will impact you? send me your q's! @sanjayguptacnn is live w/ @wolfblitzercnn & will answer them for you!
+
+people asking why dems only need 216 to pass #hcr. four vacancies: pa-12, fl-19, hi-01 and ny-29 so only 431 people in house right now.
+
+national debt will reach $14.3 trillion this year before the $2.6 trillion health care bill is added. #hcr #hc
+
+house proceedings dragging on just long enough for gop to say #hcr passed in ''the dead of night.''
+
+we are getting down to it now on #hcr. dave obey in the chair, pelosi and boehner still to speak....
+
+update: obama called stupak after deal was struck, thanked him for eventually backing #hcr. obama in residence now.
+
+gop leader boehner takes the floor. #hcr #teaparty
+
+boehner  blasts dems: ''have u read the bill? have u read mgr's amendment? hell no you havent!'' #hcr #teaparty
+
+2k people show up to protest #hcr in dc today & the msm is all over it.. 100k people show up to march for immigration reform?..not a peep
+
+
+Incorrectly labeled: neutral mistaken as positive
+--------------------------------------------------------------------------------
+now hearing the #hcr vote may be pushed to late tonight. keep the calls going: http://bit.ly/cn47e1 #ofa #p2
+
+the house is getting rowdy. #hcr very lively debate.
+
+#dems prevail on second point of order in #hcr house debate. #politics
+
+stupak: ''i'm pleased to announce that we have an agreement ... to protect the sanctity of life in #hcr.''
+
+the cool-as-heck ''whipometer'' by @slate puts the chance of #hcr now passing at 98% with stupak's support: http://www.slate.com/id/2247673/
+
+mike will vote 'yes' on health care provided there is no compromise on choice in the bill #hcrvote http://bit.ly/afcr3u
+
+rt @katrinanation my favorite provision of #hcr is tax on tanning booths. now boehner can eat crow 3x a week.
+
+15 minute recorded vote now underway, general debate to follow. #hcr
+
+rep. jan schakowsy from my neighbor state across the river is seriously fired up in favor of #hcr right now on cspan.
+
+1 vote down, 2 to go before the house finishes its job on #hcr. 224 yes on rule makes me predict 219 to 222 votes for final passage-needs216
+
+cbs colleague @jacksonjk reports latest guidance that house vote on #hcr may not happen till after 10p/et & reconciliation after 11p.
+
+#hcr debate makes it clear dems & reps aren't simply on opposite sides of an aisle. they apparently live on different planets.
+
+democrat dem. obey balks - such a request must be cleared. #hcr
+
+
+Incorrectly labeled: positive mistaken as negative
+--------------------------------------------------------------------------------
+3/21 the anniversary of my mother's death. ins. refused her meds to help digestion probs caused by her pancreatic ca. /via @jillosopher #hcr
+
+okay, this is a done deal. anybody knows a good spot to watch the end of the world, before things go back to normal tomorrow? #hcr
+
+lmao! moments before #hcr passes and there are less than 100 teabaggers on the hill, while thousands march 4 immigration reform! #tcot #p2
+
+rt @larrygeary: we need to find excellent, conservative candidates to oppose every democrat in nov. #teaparty #killthebill #hcr #tcot #palin
+
+to those in us who r working so hard to deny 32 million people what should be a basic right of citizenship - shame on you. #hcr
+
+nobody wants to be the deciding vote on the most historic, compassionate, and moral legislation ever. #hcr
+
+where was all this public passion when they passed the patriot act (and really did erode our liberty)? #hcr
+
+my closing argument for #healthreform: it's about a lot more than health care. http://bit.ly/cgo1an #hcr #tcot #politics
+
+rt @mardod: quick procedural question, does hoyer pour the gatorade over pelosi's head when they get to 216 or when the vote is over? #hcr
+
+rt @repmikehonda: today we'll fix a broken health ins. system. #hcr is not about politics, it is a matter of justice & basic human decency.
+
+rt @geoff9cow: @wegoted ''we have an african american president. we have a woman speaker of the house. w/#hcr this is a big day for america.''
+
+rt @tllanes: she's fierce, y'all!  pelosi marches to cong w/john lewis, carrying gavel usd to pss medicare in 1965 http://bit.ly/adsli9 #hcr
+
+paul ryan, 'this bill is the mother of all funded mandates'' #hcr
+
+we have paul ryan. they have patrick kennedy. nuff said! #tcot #teaparty #killthebill #hcr #ocra
+
+paul ryan on floor: listed all the new #hcr reform mandates on people, businesses & states. too many to list. #tcot #tlot #p2 #teaparty #gop
+
+rt @norsu: rt @southsalem: we have paul ryan. they have patrick kennedy. nuff said! #tcot #teaparty #killthebill #hcr #ocra
+
+of all forms of inequality, injustice in health care is the most shocking and inhumane.'' -mlk #hcr
+
+rt @zener39: rt @jackieseal    rt @joekenha: ''we can't even afford the government we have now'' -paul ryan #tcot #hcr
+
+we govern by consent of the governed. that principle is being turned on it's head today.'' -paul ryan #hcr #killthebill #tcot
+
+i haven't changed, my party has!''---olympia snowe(r}-- #tcot #tlot #gop #hcr #ocra #p2 #ucot #teaparty #topprog
+
+why don't the people against #hcr just confess to the fact that they are in love with the idea of genocide?
+
+the passage of this #hcr takeover lays in the hands of just a few dems, we are keeping the heat on them and you should too. speak up!
+
+whoopi goldberg said it best when speaking about #hcr.  directed to members of the house and senate ''gimme what you got''.
+
+rt @samishamieh: like it or not, the only people standing for liberty right now are republicans. they deserve credit! #tcot #hcr
+
+and did rep. smith really just say #hcr will mean more ''dead babies'' .... #myheadhurts
+
+rt @1nv1ctus rt @chelseablobs: how can republicans be 'pro-life' when they are letting innocent people die by not voting for #hcr ? #c-span
+
+also, i <3 rep. louise slaughter (d-ny). #p2 #hcr
+
+i can't see why #hcr would not be passed! what's the alternative?!? the status quo with morbidity
+
+norm ornstein: ''if tom daschle had been confirmed before tim geithner, you would have seen a #hcr signing ceremony 4 months ago.'' i agree.
+
+for every minute the house continues to argue about #hcr... two more people die of heart attacks.
+
+according to my pal tim noah, who's been covering #hcr for slate, passage of the bill is all but a done deal as of now.please be right, tim.
+
+i wonder how many of those #hcr protestors took the government run public transportation to get to their anti govt rally?
+
+seriously, republicans shouldn't be so dismayed. after all we're talking about helping more americans get health coverage #hcr
+
+i'm proud to have you as the cook rep. slaughter. you rock. #hcr #ptdb
+
+rt @conservativela: thank you, gop, for standing united. #killthebill #hcr #codered #tcot #gop @cspan #tcot #codered
+
+our beloved president ronald reagen is rolling in his grave..#teaparty #tcot #gop #hcr
+
+obama is going to get #hcr through...history will be made today people!!!
+
+rt @empowerdpatient: as a stage 4 cancer fighter, #hcr may not come in time 4 me (4 yrs is 2 far out), but i'll b glad 4 millions of others.
+
+although electoral consequences of #hcr are highly uncertain, how many gopers will go to bed tonight feeling remotely good about this?
+
+roosevelt had the vision, clinton attempted it, obama will execute it #hcr
+
+excellent speech by connie mack of florida!!!! ''the american people deserve to be listened to''!!! #p2 #tcot #hcr
+
+#hcr vote 1 mill. x more significant that ill-thought #startupvisa campaign.latter turns blind eye to existing h-1b visa mess @chuckgrassley
+
+#hcr:  a black president.  jesse jackson's son presiding over the house.  a line of republicans in opposition.  history?  bet your ass.
+
+us ranks 50th in life expectancy http://bit.ly/9d4cxw europe, with their universal health care system, ranks #1 #hcr #eric
+
+[flickr] pictures of the rally at the us capitol today: http://tinyurl.com/yjhgubd #healthcare #teaparty #tcot #gop #hcr
+
+a good place to invest your last ever income tax refund is in ammunition. #nra #tcot, #hcr
+
+rt @shoq: if the senate bill passes, here's what happens immediately. http://bit.ly/9zuvdt #hcr
+
+tommy douglas was founder of  universal healthcare in canada. keifer sutherland is tommy douglas' grandson -shout out of thanks #yyc #hcr
+
+john boccieri rocks. let's make sure he gets re-elected, folks. #hcr
+
+rt @sarahfelts mt @delrayser: jon stewart said it a while ago: i think you might be confusing tyranny with losing. #hcr (via @mizzouatheart)
+
+who doesn't love abba? rt @owillis: dear @barackobama please, just once, substitute ''waterloo'' for ''hail to the chief''. #p2 #hcr
+
+gergen: democrats have been dreaming of this for 60yrs. obama now has a legacy. first president to achieve near universal coverage. #p2 #hcr
+
+congrats to all of you that have debated blogged called e-mailed tweeted there were setbacks advances ! this #hcr party is for u
+
+it's feels all hopey, changy tonight, doesn't it @sarahpalinusa? not anything like losey, quitty. #p2 #hcr
+
+rt @marnus3: it's feels all hopey, changy tonight, doesn't it @sarahpalinusa? not anything like losey, quitty. #p2 #hcr
+
+another reason to pass #hcr: if obama can pull this off, he can start acting like he actually has a mandate
+
+there is hope for america #hcr #herman
+
+i can't imagine the pressure of living without healthcare, especially for people with children. who in their right mind would oppose #hcr?
+
+however unpopular this #hcr bill may poll right now, once obama signs it into law his approval rating is going to go up 10 percent.
+
+rt @leaderhoyer - rep. issa (r-ca) was just on #cspan, falsely claiming that #hcr contains special deals #factcheck http://go.usa.gov/ila
+
+http://tinyurl.com/y8z9ek5 president obama is working the phones for #hcr today. are you? click here to help make history http://bit.ly/d-rp
+
+224 votes for the house rule should mean 224 votes for the #hcr bill. a healthy margin?
+
+mr. rogers? i have no doubt the real mr. rogers would support #hcr.
+
+by the end of this day our union will be more perfect than when the day began, amen to that. #p2 #hcr #ofa
+
+whoa, could we actually be getting #hcr?  rt @ppact key moment: dems have more than 216 votes to move forward!
+
+map of countries with universal health care http://bit.ly/chrc4 there's a sad, grey area in the western hemisphere. #us #hcr
+
+mayo #hcr recommendations: http://www.mayoclinic.org/healthpolicycenter/pdfs/viewpoint4.pdf. pay for value, cover everyone, do it now.
+
+what friggen utopia? bankrupsy, foreclosure, illness, death??? stfu!!! #hcr #c-span
+
+if we have money to fight people, we have money to heal people #hcr #tcot #obama #cspan
+
+um... a bill that supports the for-profit status quo without even a public option to compete is socialized medicine? get a grip #tcot #hcr
+
+rt @stevekimura: rt @sarahpalinshand: @congjoewilson #hcr bill will deprive ppl of freedom 2 die at a vry yng age from a treatable cond. #p2
+
+john lewis says we have a moral obligation to make #hcr a moral obligation...we cannot wait and we cannot be patient. civil rights pioneer.
+
+@mellieza today, the history channel is c-span. #hcr
+
+when people eventually like their #hcr, gop will realize the mistake in calling it ''obamacare''
+
+bravo gentlewoman debbie wasserman-schultz!!! ''the nightmare ends tonight!'' #hcr @dwstweets <===follow!!!
+
+so does stupak's gop opponent have anything other than a facebook page? i wouldn't be worried if i was stupak. #hcr
+
+shut up, u lying whiners. we, the american people cast our votes for #hcr when we elected @barackobama president. #p2
+
+o.k. enough of these repiggie  lies, ...lets vote.  #hcr
+
+woolsey: c-sections, pregnancies, & domestic violence injuries are all grounds to deny health coverage currently. women need #hcr!
+
+rt @ruthanng dear president obama, thank you for not giving up. #hcr
+
+omg lold so hard i scared the dog. rt: @everydaywitch: #hcr will strengthen al-quada.  #icanmakeupshittoo
+
+rt @silvermaneman: rt @ruthanng dear president obama, thank you for not giving up. #hcr /@barackobama @whitehouse
+
+rt @i_eat_squirrels: for the record, i'm in favor of #healthcare. a friend committed suicide recently in part cuz she didnt have any. #hcr
+
+how many a+ high school students decide against med school now so they don't work for fed govt? how much talent lost? #sayfie #hcr #tcot
+
+re @repgwenmoore: the jury has deliberated. and, the verdict is sassy. bring her back to the floor. #moremoore #hcr
+
+just wondering- when did the ''american people say no to this bill'' -- i'm pretty certain they said ''yes, we can'' in nov. 2008 #hcr
+
+great speech by @reppaulryan!!!  thank you congressman ryan!  #homocon #tcot #hcr #obamacare #killthebill #gop
+
+yes, we are engaged...to men/women who want #hcr!
+
+let me say it: on #hcr, washington does know better than the people. also, my oncologist knows more about cancer than i do.
+
+as a washington native, watching cmr tell us it's the wrong time for health care reform makes me ashamed. #hcr
+
+i *am* one of the american people and i support #hcr.
+
+the gop finally has a leader. his name is paul ryan. #tcot #hcr
+
+rt @hardcorps80204: if #hcr passes obama will dig up your ancestors, gay-marry them, & then send them to the death panel. #icanmakeshituptoo
+
+hey gopers on c-span, imma let u finish, but i just wanted to let u know that goin to the hospital sucks right now, pass the bill! #hcr
+
+uhhhh....shelley?  most of us left out in the #hcr cold will take any blanket.
+
+affordable, quality health care for all: a historic journey''. take a look at the history that led to #hcr (video): http://bit.ly/anqlny
+
+rt @cyn3matic: i look forward to saying fuck you to anthem bcbs very, very soon. #p2 #hcr
+
+rt @sarahpalinshand: this #hcr bill will deprive people of the freedom to die at a very young age from a treatable condition. @aravosis
+
+let's try this -- politicians and their families halt own use of health care until they can agree on plan for everyone #hcr
+
+i mourn for the future of america when i see how miserable and oppressed the swedes, japanese, and germans are. wait... #hcr
+
+dear president obama, thank you for not giving up. #hcr
+
+rt @cfh blah, blah, blah, what we get from the #partyofno. here comes #hcr, and it's absolutely what is good for all americans, blue or red.
+
+who was it that elected obama again? oh yeah, the majority of americans who are sick of being gouged. #hcr
+
+rt @jgoffutt: if #hcr passes cia will join satan + darth vader to kill jesus. #icanmakeupshittoo
+
+republicans on the house floor keep saying the american people don't want this bill. we are american people. we want this bill. #hcr
+
+who is this rockstar legislator, and where are her backup dancers?? #hcr http://yfrog.com/8b7k6p
+
+yes: boehner calls for announcing votes one at a time. applause. asks pelosi to grant request. #hcr #teaparty #tcot
+
+
+Incorrectly labeled: positive mistaken as neutral
+--------------------------------------------------------------------------------
+msnbc: stupak ''yes'' vote confirmed--#hcr bill almost certain to pass. ~ http://bit.ly/9xoh3c
+
+health care for america now, watch the #cspan health care reform debate and vote live now today #hcr #dem @ http://bit.ly/cspchf #ff
+
+photo: #hcr hotness. http://tumblr.com/x6i7odks6
+
+i'm sending a little something to the nuns that stood for #hcr https://secure.groundspring.org/dn/index.php?aid=20530 join me in thanks
+
+watching history unfold #hcr
+
+pre #hcr final vote dj-ing: this one for mr. boehner http://bit.ly/8aqr7p
+
+pre #hcr final vote dj-ing. this one for president obama: http://bit.ly/4mqvz6
+
+here's a #teaparty pic capitol lawn #hcr @stix1972 @jackieseal #killthefreakingbill http://mypict.me/55msg
+
+cantor: ''we are at a crossroads''. to which i respond: http://ow.ly/1p9vd  #hcr
+
+in honor of rep. eric cantor on #hcr... u266b tha crossroads - bone thugs-n-harmony  http://lala.com/zl1y

@@ -31,6 +31,7 @@ cat <<EOF
 gpp 0.1 commands: 
 
   run              run the main method of a given class
+  exp		   run the HW componets of ANLP
 
 Include --help with any option for more information
 EOF
@@ -39,6 +40,9 @@ EOF
 CLASS=
 
 case $CMD in
+    convert-stanford) CLASS=gpp.util.StanfordToXML;;
+    convert-emoticon) CLASS=gpp.util.EmoticonToXML;;
+    exp) CLASS=gpp.sentiment.Exp;; 
     run) CLASS=$1; shift;;
     help) help; exit 1;;
     *) echo "Unrecognized command: $CMD"; help; exit 1;;
